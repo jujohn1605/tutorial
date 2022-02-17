@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 
+https://linears-playback.astro.com.my/vsg/21K6Un7Y_U_BFKlOGov4ff668RxhTAVFy__EQH7JYzO1s=Yz9n/dash-wv/jitp-linearwm/2700/default_ott.mpd
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBOGO", HBO
 https://live.astradamy.com/hbogo/hbo/index.m3u8
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="HBOGO", Cinemax
