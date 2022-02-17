@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="movie", HBO Astra
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBOGO", HBO
 https://live.astradamy.com/hbogo/hbo/index.m3u8
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="movie", Cinemax Astra
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="HBOGO", Cinemax Astra
 https://live.astradamy.com/hbogo/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="movie", HBO Family Astra
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="HBOGO", HBO Family Astra
 https://live.astradamy.com/hbogo/hbofam/index.m3u8
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="movie", HBO Hits Astra
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="HBOGO", HBO Hits Astra
 https://live.astradamy.com/hbogo/hbohits/index.m3u8
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="movie", HBO Signature Astra
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBOGO", HBO Signature Astra
 https://live.astradamy.com/hbogo/hbosig/index.m3u8
 #EXTINF: -1 tvg-name="ID FMN" group-title="movie", FMN
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117520
