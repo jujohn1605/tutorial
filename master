@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CITRA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+http://iptv12k.com:35461/8022011502/123456/721
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBOGO", HBO
 https://live.astradamy.com/hbogo/hbo/index.m3u8
 #EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="HBOGO", Cinemax
