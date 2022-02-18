@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CITRA
+#EXTINF: -1 tvg-logo="https://en.wikipedia.org/wiki/File:Astro_Citra_HD.png" group-title="MALAYSIA", CITRA
 http://iptv12k.com:35461/8022011502/123456/721
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBOGO", HBO
 https://live.astradamy.com/hbogo/hbo/index.m3u8
@@ -11,10 +11,6 @@ https://live.astradamy.com/hbogo/hbofam/index.m3u8
 https://live.astradamy.com/hbogo/hbohits/index.m3u8
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBOGO", HBO Signature
 https://live.astradamy.com/hbogo/hbosig/index.m3u8
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="HBOGO", CITRA
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117664
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="HBOGO", CITRA BACK
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117665
 #EXTINF: -1 tvg-name="ID FMN" group-title="movie", FMN
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117520
 #EXTINF: -1 tvg-name="ID FMN" group-title="movie", FMN BACK
